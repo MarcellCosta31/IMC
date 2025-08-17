@@ -1,4 +1,4 @@
-# 📱 Lunario IMC
+# 📱 IMC
 
 Um aplicativo simples feito em **React Native** para calcular o **IMC (Índice de Massa Corporal)**.  
 Basta inserir sua **altura** e **peso** e o app mostra o resultado junto com uma mensagem sobre sua condição física.
@@ -35,4 +35,4 @@ Basta inserir sua **altura** e **peso** e o app mostra o resultado junto com uma
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/lunario-imc.git
+   git clone https://github.com/MarcellCosta31/IMC.git
