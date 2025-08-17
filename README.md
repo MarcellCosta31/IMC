@@ -42,3 +42,8 @@ Basta inserir sua **altura** e **peso** e o app mostra o resultado junto com uma
 1. Clone este repositório:
    ```bash
    git clone https://github.com/MarcellCosta31/IMC.git
+   cd lunario-imc
+   npm install
+   expo start
+
+
