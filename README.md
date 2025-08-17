@@ -27,8 +27,11 @@ Basta inserir sua **altura** e **peso** e o app mostra o resultado junto com uma
 ---
 
 ## 📸 Preview
-<img src="https://github.com/MarcellCosta31/IMC/blob/master/prints/1.png" alt="1" width="25%">
-<img src="https://github.com/MarcellCosta31/IMC/blob/master/prints/2.png" alt="1" width="25%">
+<p align="center">
+  <img src="https://github.com/MarcellCosta31/IMC/blob/master/prints/1.png" alt="Tela 1" width="30%">
+  <img src="https://github.com/MarcellCosta31/IMC/blob/master/prints/2.png" alt="Tela 2" width="30%">
+</p>
+
 
 
 
